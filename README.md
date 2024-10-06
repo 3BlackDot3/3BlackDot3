@@ -60,7 +60,7 @@
 
 - **CompTIA Security+ Labs**:  
   Acquired expertise in threat defense, access control, and encryption to bolster system security.
-  📂 [GitHub Repository for CompTIA Security+ Labs](https://github.com/3BlackDot3/SecurityPlus-Labs)
+  📂 [GitHub Repository for CompTIA Security+ Labs](https://github.com/3BlackDot3/BootCamp/blob/main/Security%2B.md)
 
 - **CREST CPSA**:  
   Gained practical skills in penetration testing and vulnerability analysis to uncover and address system weaknesses.
