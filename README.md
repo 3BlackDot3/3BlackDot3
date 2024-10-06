@@ -38,7 +38,7 @@
 - <b>🔒 Tata Consultancy Services: Building Secure Systems with Real-World IAM Strategy</b><br/>
   Completed a comprehensive cybersecurity job simulation focused on **Identity and Access Management (IAM)**. Developed a deep understanding of IAM fundamentals, assessed various IAM strategies, and implemented custom IAM solutions. Integrated these solutions across multiple platforms to enhance security posture and streamline access control.
   - Key skills: IAM Fundamentals, IAM Strategy Development, Platform Integration  
-  📂 [GitHub Repository for Tata Consultancy Services Projects](https://github.com/3BlackDot3/TCS-IAM-Simulation)
+  📂 [GitHub Repository for Tata Consultancy Services Projects](https://github.com/3BlackDot3/Work/blob/main/TATA.md)
 
 - <b>🛡 Mastercard: Mastering Phishing Defense</b><br/>
   Completed a practical, hands-on cybersecurity job simulation focused on **Phishing Defense**. Designed and executed a phishing email simulation to assess organizational security awareness, analyzed the results, and recommended remediation measures to bolster defenses.
