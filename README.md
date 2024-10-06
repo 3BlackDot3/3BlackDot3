@@ -25,7 +25,7 @@
 
 - <b>🔍 Tenable Vulnerability Management and Analysis</b><br/>
   Led a comprehensive vulnerability management project by deploying **Nessus** to perform **in-depth security assessments** and **compliance scans**. Configured custom access controls, tagged assets for strategic tracking, and leveraged dashboards to monitor critical security metrics. Generated detailed reports on vulnerabilities and risk mitigation strategies, ensuring a robust defense against potential threats.  
-  📂 [Explore the Vulnerability Management](https://github.com/3BlackDot3/Projects/blob/main/Nessus)
+  📂 [Explore the Vulnerability Management](https://github.com/3BlackDot3/Projects/blob/main/Nessus.md)
 
 - <b>🛡 TryHackMe Platform</b><br/>
   I am ranked in the **top 1% on TryHackMe**, having solved over **100+ rooms** and earned certifications like **Jr. Penetration Tester** and **SOC Level 1**. My hands-on experience across diverse challenges and security concepts has refined my practical skills in penetration testing, threat detection, and incident response.  
