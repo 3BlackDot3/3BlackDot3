@@ -48,7 +48,7 @@
 - <b>⚔️ AIG: Tackling Zero-Day Vulnerabilities and Ransomware Attacks</b><br/>
   Completed a practical cybersecurity job simulation where I gained experience in responding to **zero-day vulnerabilities** and **ransomware attacks**. Developed response strategies to mitigate zero-day threats and practiced technical methods for neutralizing ransomware.
   - Key skills: Zero-Day Vulnerability Response, Ransomware Bypass Techniques, Incident Response  
-  📂 [GitHub Repository for AIG Projects](https://github.com/3BlackDot3/AIG-Ransomware-Simulation)
+  📂 [GitHub Repository for AIG Projects](https://github.com/3BlackDot3/Work/blob/main/AIG.md)
 
 ---
 
