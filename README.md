@@ -43,7 +43,7 @@
 - <b>🛡 Mastercard: Mastering Phishing Defense</b><br/>
   Completed a practical, hands-on cybersecurity job simulation focused on **Phishing Defense**. Designed and executed a phishing email simulation to assess organizational security awareness, analyzed the results, and recommended remediation measures to bolster defenses.
   - Key skills: Phishing Email Simulation Design, Phishing Awareness Assessment, Remediation Strategies  
-  📂 [GitHub Repository for Mastercard Projects](https://github.com/3BlackDot3/Mastercard-Phishing-Simulation)
+  📂 [GitHub Repository for Mastercard Projects](https://github.com/3BlackDot3/Work/blob/main/Mastercard)
 
 - <b>⚔️ AIG: Tackling Zero-Day Vulnerabilities and Ransomware Attacks</b><br/>
   Completed a practical cybersecurity job simulation where I gained experience in responding to **zero-day vulnerabilities** and **ransomware attacks**. Developed response strategies to mitigate zero-day threats and practiced technical methods for neutralizing ransomware.
