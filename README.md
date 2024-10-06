@@ -56,7 +56,7 @@
 
 - **CompTIA Network+ Labs**:  
   Gained hands-on experience in network setup, configuration, and security implementation to ensure efficient and secure network operations.
-  📂 [GitHub Repository for CompTIA Network+ Labs](https://github.com/3BlackDot3/NetworkPlus-Labs)
+  📂 [GitHub Repository for CompTIA Network+ Labs](https://github.com/3BlackDot3/BootCamp/blob/main/Network+.md)
 
 - **CompTIA Security+ Labs**:  
   Acquired expertise in threat defense, access control, and encryption to bolster system security.
