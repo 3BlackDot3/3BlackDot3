@@ -21,7 +21,7 @@
 
 - <b>⚙️ Scalable SIEM Lab with Elastic Stack</b><br/>
   Built and optimized a high-performance Security Information and Event Management (SIEM) system using **Elastic Stack**. Demonstrated mastery in **data ingestion**, **threat detection**, and **real-time monitoring**. Utilized **Kibana dashboards** to provide actionable insights and enhance incident response times, driving a more proactive security stance for critical systems.  
-  📂 [Explore the SIEM Lab](https://github.com/3BlackDot3/Scalable-SIEM-Lab)
+  📂 [Explore the SIEM Lab](https://github.com/3BlackDot3/Projects/blob/main/README.md)
 
 - <b>🔍 Tenable Vulnerability Management and Analysis</b><br/>
   Led a comprehensive vulnerability management project by deploying **Nessus** to perform **in-depth security assessments** and **compliance scans**. Configured custom access controls, tagged assets for strategic tracking, and leveraged dashboards to monitor critical security metrics. Generated detailed reports on vulnerabilities and risk mitigation strategies, ensuring a robust defense against potential threats.  
