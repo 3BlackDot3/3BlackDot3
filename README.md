@@ -29,7 +29,7 @@
 
 - <b>🛡 TryHackMe Platform</b><br/>
   I am ranked in the **top 1% on TryHackMe**, having solved over **100+ rooms** and earned certifications like **Jr. Penetration Tester** and **SOC Level 1**. My hands-on experience across diverse challenges and security concepts has refined my practical skills in penetration testing, threat detection, and incident response.  
-  📂 [Explore the TryHackMe Projects](https://github.com/3BlackDot3/Projects/blob/main/Tryhakme)
+  📂 [Explore the TryHackMe Projects](https://github.com/3BlackDot3/Projects/blob/main/Tryhackme.md)
 
 ---
 
