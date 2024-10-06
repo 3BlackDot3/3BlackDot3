@@ -64,7 +64,7 @@
 
 - **CREST CPSA**:  
   Gained practical skills in penetration testing and vulnerability analysis to uncover and address system weaknesses.
-  📂 [GitHub Repository for CREST CPSA Labs](https://github.com/3BlackDot3/CREST-CPSA-Labs)
+  📂 [GitHub Repository for CREST CPSA Labs](https://github.com/3BlackDot3/BootCamp/blob/main/CPSA.md)
 
 ---
 
